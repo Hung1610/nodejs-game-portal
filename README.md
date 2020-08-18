@@ -1,6 +1,7 @@
 # Game Portal Backend
  
 RESTful API for backend project.
+Demonstration for learning nodejs(express) and using mongodb.
 
 ## Description
 
@@ -28,4 +29,5 @@ Install the following tools in your system:
 * MongoDB - v4.0.1
 * `npm install`
 * `npm run dev`
+* Go to `localhost:3000\docs\` to see API swagger documentation.
 
