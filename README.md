@@ -14,6 +14,8 @@ events and each event belongs to each game.
 * User’s information includes: Fullname, player’s ID, recent login time, data recorded (Coins, stars
 gained).
 
+**NOTE:** Stats data (beginner, current, event rewards,..) is flexible, as different games can have different stats.
+
 Basic portal to meet some demands as below:
 * Record all the above data.
 * Provide an API to know all the game information and upcoming events.
